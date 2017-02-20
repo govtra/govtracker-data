@@ -4,11 +4,11 @@
 
 Our goal is to keep track, while keeping a neutral point of view, of the decisions and steps taken by the different governments around the world.
 
+Additionally, for exceptional apolitical news of importance an `important` folder is created. This was originally done to report the famine in South Sudan.
+
 ## Participate
 
-All entries must contain two things: a concise description of the entry's topic
-and a source (primary source ideally). Additionally we appreciate if articles
-providing in deep analysis are added as extra.
+All entries must contain two things: a concise description of the entry's topic and a source (primary source ideally). Additionally we appreciate if articles providing in deep analysis are added as extra.
 
 There are two ways how to participate.
 
